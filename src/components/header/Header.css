@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    height: 20%;
+    border: 2px green solid;
+    align-items: center;
+    
+}
+.btn{
+    width: 14rem;
+}
